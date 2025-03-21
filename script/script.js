@@ -18,7 +18,7 @@ const wortelImage = document.querySelector('img[alt="wortel"]');
 
 // Geluiden voor feedback aan de gebruiker
 
-// https://pixabay.com/nl/sound-effects/search/fout/?theme=film+en+speciale+effecten
+
 const klaargeluid = new Audio('geluiden/klaargeluid.mp3');
 const nietklaargeluid = new Audio('geluiden/errorgeluid.mp3');
 
